@@ -5,8 +5,8 @@
 
  <div style="display: inline_block">
   <a href="https://github.com/camiscf">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=camiscf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiscf&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=camiscf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiscf&layout=compact&langs_count=7&theme=dracula"/>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 
 </div>
