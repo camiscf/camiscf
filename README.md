@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C, html, python
-- 😄 Pronouns: ela/dela she/her
+- 🌱 I’m currently learning C, html, python, JavaScript
+- 😄 Pronouns: ela/dela - she/her
 
  <div style="display: inline_block">
   <a href="https://github.com/camiscf">
@@ -15,6 +15,7 @@
   <img align="center" alt="Camis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Camis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Camis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Camis-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 </div>
 
