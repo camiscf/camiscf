@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning html, python and JavaScript 
+- 🌱 I’m currently learning Python and JavaScript 
 - 😄 Pronouns: ela/dela - she/her
 
  <div style="display: inline_block">
