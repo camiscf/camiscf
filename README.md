@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python and JavaScript 
+- 🌱 I’m currently learning React
 - 😄 Pronouns: ela/dela - she/her
 
  <div style="display: inline_block">
@@ -17,6 +17,7 @@
   <img align="center" alt="Camis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Camis-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Camis-JAVA" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Camis-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 </div>
 
 ![Snake animation](https://github.com/camiscf/camiscf/blob/output/github-contribution-grid-snake.svg)
